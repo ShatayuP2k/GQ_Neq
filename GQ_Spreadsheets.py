@@ -75,7 +75,7 @@ def clear_all_data():
 # ==========================================
 
 st.set_page_config(page_title="Bulk AISensy & Exotel Generator", layout="wide")
-st.title("🦚 Bulk Batch Sheet Generator")
+st.title("🦚 GQ Spreadsheet Generator")
 
 # --- Initialize Session State ---
 if 'generated_data' not in st.session_state:
